@@ -8,7 +8,6 @@ EasyTask is an enterprise-level task management application built with [Angular]
 - Responsive, accessible UI
 - User avatars and dummy user data
 - Modern CSS and Google Fonts
-- Ready for extension with additional features
 
 ## Getting Started
 
